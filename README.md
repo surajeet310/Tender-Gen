@@ -3,7 +3,7 @@ Desktop application for automating the task of generating Tender related documen
 The application helps the user to avoid manual typing of the same details over and again. This app can generate the doucment in docx and pdf format as well.
 This appication also provides this feature that, the user can manipulate the order in which the document is generated, as per requirement.
 
-## Application View
+## Application UI
 ![Screenshot (70)](https://user-images.githubusercontent.com/26892694/145992323-824894db-442e-4601-8755-7f7d3a8d9f65.png) </br>
 ![Screenshot (73)](https://user-images.githubusercontent.com/26892694/145992537-109be492-508e-47a5-bbb9-861ddc1f8edb.png) </br>
 ![Screenshot (74)](https://user-images.githubusercontent.com/26892694/145992583-4fa0341f-6138-454d-9b48-24d86ff04c91.png) </br>
